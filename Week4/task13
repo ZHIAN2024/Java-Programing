@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Labtask13 {
+public class task13 {
     public static void main(String[] args) {
 
             Scanner input = new Scanner(System.in);
