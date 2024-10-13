@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Labtask14 {
+public class task14 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter weight in pounds: ");
